@@ -1,4 +1,4 @@
-# Suduku
+# Sudoku
 
 Heres a classic game of Suduku.
 Just input a game board to play.
