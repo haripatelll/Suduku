@@ -10,3 +10,4 @@ Here are some commands:
   hint: indicates all the combinations for the cell
               : a small hint :)
   solve: solves the puzzle for you in your stuck
+
