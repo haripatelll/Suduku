@@ -27,7 +27,8 @@ static void merge(int dest[],
 
 // see sort.h for doucmentation
 
-void merge_sort(int a[], int len) {
+void merge_sort(int a[], int len) { 
+  
   assert(a);
   if (len <= 1) return;
   
